@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+  }
+
+#intro {
+    font-size: 30px;
+  }
+
+h2 {
+    color: brown;
+}
